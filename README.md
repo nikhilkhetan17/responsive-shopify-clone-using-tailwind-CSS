@@ -1,8 +1,8 @@
-## ⭐Paytm Clone Using Tailwind CSS⭐
+## ⭐Shopify Clone Using Tailwind CSS⭐
 
 <br>
 
-## 📌 Live Site URL: <a href="https://shopifyclonetailwind.netlify.app">**Visit Now**</a>
+## 📌 Live Site URL: <a href="https://shopifyclonetailwind.netlify.app/">**Visit Now**</a>
 
 ## 📌 Social Links:
 
