@@ -2,7 +2,7 @@
 
 <br>
 
-## 📌 Live Site URL: <a href="https://paytmclonetailwind.netlify.app">**Visit Now**</a>
+## 📌 Live Site URL: <a href="https://shopifyclonetailwind.netlify.app">**Visit Now**</a>
 
 ## 📌 Social Links:
 
