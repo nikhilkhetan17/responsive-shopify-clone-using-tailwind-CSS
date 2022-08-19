@@ -1,4 +1,4 @@
-## ⭐Shopify Clone Using Tailwind CSS⭐
+## ⭐Responsive Shopify Clone Using Tailwind CSS⭐
 
 <br>
 
