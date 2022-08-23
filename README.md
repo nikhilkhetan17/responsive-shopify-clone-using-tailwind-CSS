@@ -4,6 +4,29 @@
 
 ## 📌 Live Site URL: <a href="https://shopifyclonetailwind.netlify.app/">**Visit Now**</a>
 
+<br>
+
+## 📌 Screenshot:
+
+![project1](./assets/shopify.png)
+
+<br>
+
+## 📌 What I Learned:
+
+- ### Creating responsive website using Tailwind breakpoints
+- ### Explored Tailwind documnetation
+- ### Sticky nav bar in Tailwind
+- ### Flexbox properties in Tailwind
+
+<br>
+
+## 📌 Time Taken To Complete This Project:
+
+- ### Took me almost 2 days to make it
+
+<br>
+
 ## 📌 Social Links:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilkhetan17/)
