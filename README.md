@@ -2,7 +2,7 @@
 
 <br>
 
-## 📌 Live Site URL: <a href="https://shopifyclonetailwind.netlify.app/">**Visit Now**</a>
+## 📌 Live Site URL: <a href="https://responsive-shopify-clone-using-tailwind-css.vercel.app/">**Visit Now**</a>
 
 <br>
 
